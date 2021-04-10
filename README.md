@@ -6,6 +6,7 @@ My name is Aleksey Gilenko, currently I am studying at the Faculty of [Software 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_a.gilenko_/)](https://www.instagram.com/_a.gilenko_/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-2D416B?style=flat-square&logo=Facebook&logoColor=4765A7&link=https://www.facebook.com/profile.php?id=100007361644056)](https://www.facebook.com/profile.php?id=100007361644056)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-4E73B8?style=flat-square&logo=Telegram&logoColor=35ADE1&link=https://t.me/Sagittarius_1310)](https://t.me/Sagittarius_1310)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4E73B8?style=flat-square&logo=WhatsApp&logoColor=2BD247&link=https://t.me/Sagittarius_1310)](https://t.me/Sagittarius_1310)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aleksey.gilenko@gmail.com)](mailto:aleksey.gilenko@gmail.com)
 
 ## ⚡ Technologies
