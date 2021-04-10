@@ -14,7 +14,7 @@ My name is Aleksey Gilenko, currently I am studying at the Faculty of [Software 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-6F7109?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-272D5E?style=flat-square&logo=PHP)
-![MySQL](https://img.shields.io/badge/-MySQL-004141?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-002A2A?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Docker](https://img.shields.io/badge/-Docker-025454?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-772719?style=flat-square&logo=git)
