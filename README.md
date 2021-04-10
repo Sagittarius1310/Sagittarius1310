@@ -25,4 +25,4 @@ My name is Aleksey Gilenko, currently I am studying at the Faculty of [Software 
 ## ⭐ Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagittarius1310&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagittarius1310&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagittarius1310&hide=TeX&layout=compact&theme=radical)
